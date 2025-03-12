@@ -9,5 +9,5 @@ export default defineConfig({
     port: 5173,       // Ensure the correct port
     strictPort: true,
     allowedHosts: ["signup-ui-production.up.railway.app"],  // Allow Railway domain
-  }
+  },
 })
